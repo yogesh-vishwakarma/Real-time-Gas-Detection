@@ -9,3 +9,7 @@ In this project we are creating a circuit which will provide the values of
 6. value of SMOKE in air (ppm)
 
 We are using BLYNK library and app to provide the live values on mobile phone using WEMOS D1 Mini Board.
+
+Here is a block diagram of connections
+
+![](images/diagram1.jpg)
